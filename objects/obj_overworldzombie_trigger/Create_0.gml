@@ -1,0 +1,1 @@
+chase_player = false

@@ -1,0 +1,1 @@
+obj_zombie_battlesprite.shake = false;
